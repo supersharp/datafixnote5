@@ -1,0 +1,11 @@
+/system/app/belltv-stub-1.1/belltv-stub-1.1.apk
+/system/app/FidoAppZone_v1.0.27.2-ZA-rogers-signed/FidoAppZone_v1.0.27.2-ZA-rogers-signed.apk
+/system/app/Koodo_SelfServe_Virtual_PreLoad_Signed/Koodo_SelfServe_Virtual_PreLoad_Signed.apk
+/system/app/My_Account-android-fido-prod-ZA/My_Account-android-fido-prod-ZA.apk
+/system/app/MyAccountStub_v1.0/MyAccountStub_v1.0.apk
+/system/app/MyBellStub/MyBellStub.apk
+/system/app/PortailVideotron/PortailVideotron.apk
+/system/app/Push_To_Talk/Push_To_Talk.apk
+/system/app/TELUSFeaturedApps_v1.0_Signed_Prod_App/TELUSFeaturedApps_v1.0_Signed_Prod_App.apk
+/system/app/Telus_MyAccount_Virtual_PreLoad_Singed_May10/Telus_MyAccount_Virtual_PreLoad_Singed_May10.apk
+/system/app/TunesAppsWidget-2.55f/TunesAppsWidget-2.55f.apk

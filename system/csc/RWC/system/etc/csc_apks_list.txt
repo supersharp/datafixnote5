@@ -1,0 +1,5 @@
+/system/app/android-rider-release-3.8.2/android-rider-release-3.8.2.apk
+/system/app/Generic-CityTv-signed-aligned/Generic-CityTv-signed-aligned.apk
+/system/app/MyAccount_rogers_prod_evo2_june16/MyAccount_rogers_prod_evo2_june16.apk
+/system/app/RogersAppZone_v1.0.27.2-ZA-rogers-signed/RogersAppZone_v1.0.27.2-ZA-rogers-signed.apk
+/system/app/suretap_wallet__stub/suretap_wallet__stub.apk
